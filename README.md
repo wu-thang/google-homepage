@@ -1,0 +1,1 @@
+This project consist of my knowledge form looking at a website and trying to deconstruct it and rebuild it. I will be using HTML and CSS! My goal is to apply what i learned and start thinking on how to place elements on the page. 
